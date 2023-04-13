@@ -6,7 +6,7 @@ User authentication and car registration application.
 - run ```npm install``` or ```yarn install```.
 
 ## Run on Device
-- run ```yarn android``` or ```yarn ios``` to run on device or emulator.
+- run ```npx react-native run-android``` or ```npx react-native run-ios``` to run on device or emulator.
 
 ## Start the web version
  - run ```yarn start:web```
